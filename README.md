@@ -3,9 +3,9 @@
 I'm a US high school student currently taking AP Computer Science A (Java). I'm also familiar with Python and JS.
 
 I have an alt account, [MrAwesomeRocks](https://github.com/MrAwesomeRocks), for projects where I don't want to share my real name. 
-The most popular project I have published, [a Lorem Ipsum generator](https://github.com/MrAwesomeRocks/vscode-lorem-ipsum), is under that account. At the time of writing, it had 352 downloads.
-
 I also had a [BitBucket account](https://bitbucket.org/NinoMaruszewski) previously, some of my older projects can be found there. Feel free to take a look at them.
+
+My most popular project is a [Lorem Ipsum generator](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) for [VSCode](https://code.visualstudio.com), which, at the time of writing, had 352 downloads. It's repository can be found [here](https://github.com/NinoMaruszewski/vscode-lorem-ipsum).
 
 I'm currently working on two Discord bots for a Discord server I admin, one is a moderation bot and the other a games bot. Anyone is free to contribute to them.
 
