@@ -5,7 +5,7 @@ I'm a US high school student currently taking AP Computer Science A (Java). I'm 
 I have an alt account, [MrAwesomeRocks](https://github.com/MrAwesomeRocks), for projects where I don't want to share my real name. 
 I also had a [BitBucket account](https://bitbucket.org/NinoMaruszewski) previously, some of my older projects can be found there. Feel free to take a look at them.
 
-My most popular project is a [Lorem Ipsum generator](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) for [VSCode](https://code.visualstudio.com), which has ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mrawesomerocks.lipsum-generator?color=none&label=%20&style=flat-square) downloads. It's repository can be found [here](https://github.com/NinoMaruszewski/vscode-lorem-ipsum).
+My most popular project is a [Lorem Ipsum generator](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) for [VSCode](https://code.visualstudio.com), which has [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mrawesomerocks.lipsum-generator?color=none&label=%20&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) downloads. It's repository can be found [here](https://github.com/NinoMaruszewski/vscode-lorem-ipsum).
 
 I'm currently working on two Discord bots for a Discord server I admin, one is a moderation bot and the other a games bot. Anyone is free to contribute to them.
 
