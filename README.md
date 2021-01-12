@@ -7,7 +7,7 @@ I also had a [BitBucket account](https://bitbucket.org/NinoMaruszewski) previous
 
 My most popular project is a [Lorem Ipsum generator](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) for [VSCode](https://code.visualstudio.com), which has [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mrawesomerocks.lipsum-generator?color=none&label=%20&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) downloads. It's repository can be found [here](https://github.com/NinoMaruszewski/vscode-lorem-ipsum).
 
-I'm currently working on two Discord bots for a Discord server I admin, one is a moderation bot and the other a games bot. Anyone is free to contribute to them.
+I'm currently working on two Discord bots for a Discord server I administrate, one is a moderation bot and the other a games bot. Anyone is free to contribute to them.
 
 If you would like to contact me, open [an issue](https://github.com/NinoMaruszewski/NinoMaruszewski/issues) on my personal repo.
 
