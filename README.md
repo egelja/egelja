@@ -13,7 +13,7 @@ If you would like to contact me, open [an issue](https://github.com/NinoMaruszew
 
 <div align="center">
   
-  ![NinoMaruszewski's github stats](https://github-readme-stats.vercel.app/api?username=NinoMaruszewski&count_private=true&show_icons=true&theme=dracula&hide_border=true&line_height=21)
+  ![NinoMaruszewski's github stats](https://github-readme-stats.vercel.app/api?username=NinoMaruszewski&count_private=true&show_icons=true&theme=dracula&hide_border=true&line_height=20)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NinoMaruszewski&theme=dracula&hide_border=true&layout=compact)
   
 </div>
