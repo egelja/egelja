@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nino!
 
-I'm a US high school student currently taking AP Computer Science A (Java). I'm also familiar with Python and JS.
+I'm a US high school student that completed AP Computer Science A (Java). I'm also familiar with Python and JS.
 
 I have an alt account, [MrAwesomeRocks](https://github.com/MrAwesomeRocks), for projects where I don't want to share my real name. 
 I also had a [BitBucket account](https://bitbucket.org/NinoMaruszewski) previously, some of my older projects can be found there. Feel free to take a look at them.
