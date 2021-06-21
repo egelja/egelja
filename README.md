@@ -13,7 +13,7 @@ If you would like to contact me, open [an issue](https://github.com/MrAwesomeRoc
 <div align="center">
   
   ![MrAwesomeRocks's github stats](https://github-readme-stats.vercel.app/api?username=MrAwesomeRocks&count_private=true&show_icons=true&theme=dracula&hide_border=true&line_height=20)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAwesomeRocks&theme=dracula&hide_border=true&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAwesomeRocks&theme=dracula&hide_border=true&layout=compact&exclude_repo=caelus-cml,caelus-CPL)
   
 </div>
 
