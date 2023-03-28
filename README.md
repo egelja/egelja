@@ -1,12 +1,10 @@
-## Hi there 👋, I'm Nino!
+## Hi there 👋, I'm Nikola!
 
-I'm a US high school student that completed AP Computer Science A (Java). I'm also familiar with Python and JS.
+I'm a first-year Computer Science student at Northwestern University, but in terms of credits I am a thrid-year. I'm currently working on Quantum Systems research at the [PARAG@N Lab](http://paragon.cs.northwestern.edu).
 
 I once used a [BitBucket account](https://bitbucket.org/NinoMaruszewski) previously, some of my older projects can be found there. Feel free to take a look at them.
 
 My most popular project is a [Lorem Ipsum generator](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) for [VSCode](https://code.visualstudio.com), which has [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mrawesomerocks.lipsum-generator?color=none&label=%20&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) downloads. Its repository can be found [here](https://github.com/MrAwesomeRocks/vscode-lorem-ipsum).
-
-I'm currently working on two Discord bots for a Discord server I administrate, one is a moderation bot and the other a games bot. Anyone is free to contribute to them.
 
 If you would like to contact me, open [an issue](https://github.com/MrAwesomeRocks/MrAwesomeRocks/issues) on my personal repo.
 
