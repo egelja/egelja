@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nikola!
 
-I'm a first-year Computer Science student at Northwestern University, but in terms of credits I am a thrid-year. I'm currently working on Quantum Systems research at the [PARAG@N Lab](http://paragon.cs.northwestern.edu).
+I'm a first-year Computer Science student at Northwestern University, but in terms of credits I am a thrid year. I'm currently working on Quantum Systems research at the [PARAG@N Lab](http://paragon.cs.northwestern.edu).
 
 I once used a [BitBucket account](https://bitbucket.org/NinoMaruszewski) previously, some of my older projects can be found there. Feel free to take a look at them.
 
