@@ -10,8 +10,8 @@ If you would like to contact me, open [an issue](https://github.com/egelja/egelj
 
 <div align="center">
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=egelja&count_private=true&show_icons=true&theme=dracula&hide_border=true&line_height=20)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egelja&theme=dracula&hide_border=true&layout=compact&exclude_repo=caelus-cml,caelus-CPL,mrawesomerocks.github.io)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=egelja&count_private=true&show_icons=true&theme=transparent&hide_border=true&line_height=20)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egelja&theme=transparent&hide_border=true&layout=compact&exclude_repo=caelus-cml,caelus-CPL,mrawesomerocks.github.io)
   
 </div>
 
