@@ -12,7 +12,7 @@ Contact information can be found on my webiste, [marusz.com](https://marusz.com)
 <div align="center">
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=egelja&count_private=true&show_icons=true&theme=transparent&hide_border=true&line_height=20)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egelja&theme=transparent&hide_border=true&layout=compact&exclude_repo=caelus-cml,caelus-CPL,mrawesomerocks.github.io)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egelja&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=caelus-cml,caelus-CPL,egelja.github.io,portfolio-v2)
   
 </div>
 
