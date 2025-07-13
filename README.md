@@ -1,12 +1,13 @@
 ## Hi there 👋, I'm Nikola!
 
-I'm a fourth year Computer Science student at Northwestern University, currently working on Quantum Systems research at the [PARAG@N Lab](http://paragon.cs.northwestern.edu).
+I'm a PhD student in Computer Science at [Georgia Tech](https://gatech.edu), working with Prof. [Josiah Hester](https://josiahhester.com/) in the [Ka Moamoa](https://kamoamoa.com/) lab.
+My research is focused on systems for embedded and intermittent computing, trying to find ways to run complex applications in challenging and constrained environments.
 
-I once used a [BitBucket account](https://bitbucket.org/NinoMaruszewski) previously, some of my older projects can be found there. Feel free to take a look at them.
+Before joining Georgia Tech, I did work on quantum computing and computer architecture at [Northwestern University](https://www.northwestern.edu/), under the supervision of
+Prof. [Nikos Hardavellas](https://users.cs.northwestern.edu/~hardav/) in the [PARAG@N Lab](https://paragon.cs.northwestern.edu/). While at NU, I obtained a BS in Computer Science
+and a MS in Computer Engineering.
 
-My most popular project is a [Lorem Ipsum generator](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) for [VSCode](https://code.visualstudio.com), which has [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mrawesomerocks.lipsum-generator?color=none&label=%20&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=MrAwesomeRocks.lipsum-generator) downloads. Its repository can be found [here](https://github.com/egelja/vscode-lorem-ipsum).
-
-If you would like to contact me, open [an issue](https://github.com/egelja/egelja/issues) on my personal repo.
+Contact information can be found on my webiste, [marusz.com](https://marusz.com). My Google Scholar can be found [here](https://scholar.google.com/citations?user=ye4YtpsAAAAJ&hl=en&oi=ao).
 
 <div align="center">
   
